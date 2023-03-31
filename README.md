@@ -27,6 +27,7 @@ set up database
   port: 5432
 * How to run the test suite
 rails test
+rails test:system
 
 * Services (job queues, cache servers, search engines, etc.)
 
