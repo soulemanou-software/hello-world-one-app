@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "private": "true",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "yarm": "^0.4.0",
+    "yarn": "^1.22.19",
+    "yarn-install": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.18.6"
+  }
+}
